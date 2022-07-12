@@ -1,3 +1,5 @@
 # AsyncShell
 
-A description of this package.
+```swift
+try await shell("pwd")
+```
